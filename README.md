@@ -1,0 +1,4 @@
+Brief Description:
+TaskMaster is a simple and intuitive to-do list application designed to help users manage their tasks effectively. The app includes essential features such as due dates, priority levels, task categorization, task status tracking, and local storage for seamless task management.
+This Simple To-Do List Application aims to empower users with an effective tool for task management, promoting productivity and organization in their daily lives. The combination of intuitive design and essential features ensures a seamless user experience.
+we aim to develop a user-friendly To-Do List Application that allows individuals to efficiently manage their tasks. The application will include key features such as due dates, priority levels, task categorization, and status tracking to help users stay organized and focused.
